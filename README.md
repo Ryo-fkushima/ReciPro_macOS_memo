@@ -1,10 +1,10 @@
 # ReciPro_macOS_memo
-結晶学ソフトウェアReciProをmacOSで動作させるためのメモ
+Method for running ReciPro on macOS（結晶学ソフトウェアReciProをmacOSで動作させる手法についてのメモ）
 
 ReciPro: https://github.com/seto77/ReciPro
 
 ## Strategy
-WineのラッパーであるSikarugirを使用する。OpenGL部分はMesa3Dで対応する。
+Sikarugir (Wine wrapper) + Mesa3D (for OpenGL-based functions)
 
 Sikarugir: https://github.com/Sikarugir-App/Sikarugir
 
