@@ -31,7 +31,7 @@ M5 Macbook Pro (Tahoe 26.5)
 
 ## Known issues
 - Some letters and arrows are not displayed correctly. 
-- [Note on Jun 12, 2026] Problem with angstrom signs has been solved with ReciPro v4.938 by downloading .ttf files from the dejavu-fonts repository (https://github.com/dejavu-fonts/dejavu-fonts/releases/tag/version_2_37).
+- [Note on Jun 12, 2026] Problem with angstrom signs has been solved with ReciPro v4.938, by downloading .ttf files from the dejavu-fonts repository (https://github.com/dejavu-fonts/dejavu-fonts/releases/tag/version_2_37) and putting them into Contents/SharedSupport/prefix/drive_c/windows/Fonts.
 
 
 ## Reference
