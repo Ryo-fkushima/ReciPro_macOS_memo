@@ -13,7 +13,7 @@ mesa-dist-win: https://github.com/pal1000/mesa-dist-win/
 ## Environment
 M5 Macbook Pro (Tahoe 26.5)
 
-## Step-by-step instructions (for ReciPro v4.942, v.4.940)
+## Step-by-step instructions (for ReciPro v4.944, v4.942, v.4.940)
 1. Install Sikarugir via homebrew
 2. Create a new wrapper with the default template (`Template 1.0.11`) and the engine of `WS12WineSikarugir10.0_6`.
 3. Run Contents/Configure.app in the created wrapper, and install `gdiplus` via winetricks.
